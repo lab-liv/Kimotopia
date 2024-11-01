@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 616c681085b7d5d4abba93b0846c34d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - monstro: {fileID: 1129666257653082, guid: b1d3ff20c10f0b542a7a24481963ba04, type: 2}
+  - medicacao: {fileID: 100000, guid: e0104657a83d1374b8e7cda818970954, type: 3}
+  - hamburger: {fileID: 1359846853017854, guid: 3f0b0e5d0ea138148872cbc095175de7,
+      type: 2}
+  - ruim2: {instanceID: 0}
+  - ruim3: {fileID: 1941953655215882, guid: 058f85c3d6646154ba6b69a0e95d742e, type: 2}
+  - ruim4: {fileID: 1861126014383798, guid: 52c8d5431acef0948b388299ffb3a880, type: 2}
+  - alimentacao: {fileID: 1763194807704122, guid: 9fbaa959ac42be44aa06bfb2de9ed522,
+      type: 2}
+  - alimentacao2: {fileID: 1930821187161068, guid: 7b53276f6368041f295d53fa1ceb96be,
+      type: 2}
+  - alimentacao3: {fileID: 1157539722663182, guid: cf51ba6d90e85472bad5beed57381140,
+      type: 2}
+  - alimentacao4: {fileID: 1588608257385104, guid: 34d69fb1f7224bc40a777acf5715bd71,
+      type: 2}
+  - sujeira: {fileID: 1998386429167316, guid: cba1faa218eb0e4458e16cc47db00dfc, type: 2}
+  - higiene: {fileID: 1466482001701648, guid: b8041cded6f864d47b720c75f601139b, type: 2}
+  - go: {instanceID: 0}
+  - go2: {instanceID: 0}
+  - go3: {instanceID: 0}
+  - go4: {instanceID: 0}
+  - go_monstros: {instanceID: 0}
+  - go_monstros2: {instanceID: 0}
+  - go_monstros3: {instanceID: 0}
+  - go_monstros4: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  - points: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - teste: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

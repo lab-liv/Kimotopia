@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b633bed989c285048b9076c7a25081a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textoPontos: {fileID: 114705626249062626, guid: 08cc3f1edb22d4e419e01138823a06a0,
+      type: 2}
+  - textoSaude: {fileID: 114546495142773202, guid: 0cb63b5cecbf24ad195351fd9c53ab66,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

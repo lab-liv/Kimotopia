@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d95036b3f5ac74d059c184b82a417c40
+timeCreated: 1536003050
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - remedioSound: {fileID: 8300000, guid: 54f4d02ad90244fb2906eea6449d1ffb, type: 3}
+  - monstroSound: {fileID: 8300000, guid: 28b6119764d3247e58a00d71c6d870bb, type: 3}
+  - appleSound: {fileID: 8300000, guid: 54f4d02ad90244fb2906eea6449d1ffb, type: 3}
+  - carrotSound: {fileID: 8300000, guid: 54f4d02ad90244fb2906eea6449d1ffb, type: 3}
+  - hamburgerSound: {fileID: 8300000, guid: 28b6119764d3247e58a00d71c6d870bb, type: 3}
+  - higieneSound: {fileID: 8300000, guid: 54f4d02ad90244fb2906eea6449d1ffb, type: 3}
+  - sujeiraSound: {fileID: 8300000, guid: 28b6119764d3247e58a00d71c6d870bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

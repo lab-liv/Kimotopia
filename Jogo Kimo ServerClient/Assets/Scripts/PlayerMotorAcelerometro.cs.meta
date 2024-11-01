@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a285cb58ca2444537957800382a7ae58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTY_head: {instanceID: 0}
+  - playerTY_hand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
